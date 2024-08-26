@@ -1,4 +1,4 @@
-## Die ListifyAPI bietet eine Reihe von Endpunkten für die Verwaltung von Tasks. Funktionen zum Erstellen, Abrufen, Aktualisieren und Löschen von Aufgaben werden von dieser REST API berücksichtigt.
+## Die ListifyAPI bietet eine Reihe von Endpunkten für die Verwaltung von Tasks. Funktionen zum Erstellen, Abrufen, Aktualisieren und Löschen von Aufgaben werden von dieser REST API berücksichtigt. Entiwcklung in DMVC Delphi REST API Builder Framework
 ## Endpoints Beschreibung
 ####  Get All Tasks
 
